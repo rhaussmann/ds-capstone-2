@@ -15,7 +15,7 @@ The project uses Jack Kirby, co-creator of “The Black Panther,” “The Aveng
 
 
 ## Exploratory Data Analysis
-Images files (jpg and png) were extracted from Google Images and Tumblr. Images included pencils, inked black and white art and color art. The Kirby sample was made up of XX images, the Capullo sample was made up of  XX images and the Aragones sample was made up of XX images. (The image counts should probably be evened out to prevent class imbalance.)
+Images files (jpg and png) were extracted from Google Images and Tumblr. Images included pencils, inked black and white art and color art. The Kirby sample was made up of 2085 images, the Capullo sample was made up of  125 images and the Aragones sample was made up of 122 images. (The training bears out that image counts should probably be evened out to prevent class imbalance.)
 
 ## Preprocessing
 To prepare the dataset, photos and “homages” were manually removed. File names with spaces and illegal characters were modified to allow the files to be input into the system. The training data was set with labels as the directory name to make adding additional artists easier.
