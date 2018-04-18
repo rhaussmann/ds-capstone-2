@@ -39,8 +39,7 @@ FC => RELU
 
 Softmax Classifier
 
-
-(TensorBoard Summary)
+![tensorboard graph](https://github.com/rhaussmann/ds-capstone-2/img/tensor_graph.png "Tensorboard Graph")
 
 
 ## Results
