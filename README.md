@@ -62,7 +62,8 @@ Softmax Classifier
 
 
 ## Second Model
-The next model included 
+The next model uses .L2 regularization, ensembles and batch bormalization. The training is up to loss: 0.9744 - acc: 0.8072.
+
 ## Results
 
 (Plot + ROC)
