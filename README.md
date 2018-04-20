@@ -1,31 +1,29 @@
 # Comic Book Artist Identifier
 
-This project focuses on distinguishing an artist’s work when presented with an unknown art sample. 
+This project focuses on distinguishing a comic book artist’s work when presented with an unknown art sample. 
 
-There are a number of challenges in definitively identifying an artist.
+Comic book art presents a number of unique difficulties in identification. 
 
-The difficulty with comic book artists is that the artist pencils the art which is likely inked over by another artist and colored by yet another artist. In addition, word balloons and narrative may further obscure the art. 
+Typically, the artist pencils art which is inked over by another artist and colored by yet another artist. In addition, word balloons and narrative may further obscure the art or falsly register as part of the art. 
 
 The artist’s style will also change over time or with the subject matter. To further complicate the process, newer artists can be influenced by another artist’s style.
 
 
 ## Data
-The project uses Jack Kirby, co-creator of “The Black Panther,” “The Avengers” and many other popular series as the target artist. The initial comparison artists are intended to be stylistically different from Kirby. In this case, Jim Lee, the Co-Publisher of DC Comics, and Randall Munroe, a cartoonist known for his web comic XKCD. In the interest in giving the nueral network a break, XKCD is primarily stick figures.
-
-| Artist  | Example  |
-|---|---|
-|Jack Kirby| ![kirby](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/jack_kirby.jpg) |
-|Jim Lee  | ![lee](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/jim_lee.jpg)|
-| Randall Munroe  | ![munroe](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/cat_proximity.png)  |
-
+The project uses Jack Kirby, co-creator of “The Black Panther,” “The Avengers” and many other popular series as the target artist. For demonstration purposes, the other cartoonist that the work is being compared to is Randall Munroe, known for his web comic XKCD. In the interest in giving the nueral network a chance of success, XKCD is primarily composed of stick figures.
 
 
 ## Exploratory Data Analysis
 Images files (jpg and png) were extracted from Google Images, Pinterest and Tumblr. The images were black and white and usually inked. Lighter pencils were thrown out. The initial pool consists of 1025 jpg and png images proportionally resized and cropped to 200x200 pixels.
 
-
-## Preprocessing
 To prepare the dataset, photos and “homages” were manually removed. File names with spaces and illegal characters were modified to allow the files to be input into the system. The training data was set with labels as the directory name to make adding additional artists easier.
+
+
+| Artist  | Example  |
+|---|---|
+|Jack Kirby| ![kirby](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/jack_kirby.jpg) |
+
+| Randall Munroe  | ![munroe](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/cat_proximity.png)  |
 
 ## Initial Neural Network Architecture
 
