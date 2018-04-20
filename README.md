@@ -19,11 +19,10 @@ Images files (jpg and png) were extracted from Google Images, Pinterest and Tumb
 To prepare the dataset, photos and “homages” were manually removed. File names with spaces and illegal characters were modified to allow the files to be input into the system. The training data was set with labels as the directory name to make adding additional artists easier.
 
 
-| Artist  | Example  |
-|---|---|
-|Jack Kirby| ![kirby](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/jack_kirby.jpg) |
-
-| Randall Munroe  | ![munroe](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/cat_proximity.png)  |
+| Artist  | 1  |2 |3|4 |
+|---|---|---|---|---|
+|Jack Kirby| ![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby989.jpg) |![kirby2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1001.jpg) |![kirby3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1004.jpg) |![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1008.jpg) |
+| Randall Munroe  | ![munroe1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd101.jpg)  |![munroe2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd102.jpg)  |![munroe3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd1012.jpg)  |![munroe4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd1016.jpg)  |
 
 ## Initial Neural Network Architecture
 
