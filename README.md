@@ -61,6 +61,8 @@ The results: 0.9744 - acc: 0.8072.
 |---|---|
 |![acc](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/acc.png)|![loss](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/loss.png)|
 
+## Predictions
+
 | Artist  | 1  |2 |3|4 |
 |---|---|---|---|---|
 |Jack Kirby| ![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr1.png) |![kirby2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr2.png) |![kirby3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr3.png) |![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr4.png) |
