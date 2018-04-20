@@ -48,7 +48,7 @@ Here are the layers and their cumulative effects on the image.
 
 
 
-![tensorboard graph](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/tensor_graph.png "Tensorboard Graph")
+![tensorboard graph](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/tensorboard.png "Tensorboard Graph")
 
 
 ## Second Model
@@ -56,8 +56,10 @@ The next model uses .L2 regularization, ensembles and batch bormalization. The t
 
 ## Results
 
-(Plot + ROC)
-(Example Image Identification)
+| Artist  | 1  |2 |3|4 |
+|---|---|---|---|---|
+|Jack Kirby| ![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr1) |![kirby2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1001.jpg) |![kirby3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1004.jpg) |![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby1008.jpg) |
+| Randall Munroe  | ![munroe1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd101.jpg)  |![munroe2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd102.jpg)  |![munroe3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd1012.jpg)  |![munroe4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xkcd1016.jpg)  |
 
 ## Next Steps
 
