@@ -74,4 +74,16 @@ Additional CV2 Filters: Canny Edge Detection
 
 ## References
 
-## Tech Stack
+[AI Machine Attempts to Understand Comic Books ... and Fails](https://www.technologyreview.com/s/602973/ai-machine-attempts-to-understand-comic-books-and-fails/)
+
+[Detecting comic strip dialogue bubble regions in images](https://stackoverflow.com/questions/34356635/detecting-comic-strip-dialogue-bubble-regions-in-images)
+
+Rosebrock, Adrian. [Image classification with Keras and deep learning](https://www.pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/)
+
+Wilkins, Benjamin. [Sketching Interfaces: Generating code from low fidelity wireframes](https://airbnb.design/sketching-interfaces/)
+
+Ueno, Miki. [Comic Book Interpretation based on Deep Neural Networks] (http://www.ttic.edu/SNL2017/papers/SNL-2017_paper_19.pdf)
+
+Uenoa, Miki, et al. [Classification of Two Comic Books based on Convolutional Neural Networks](https://gredos.usal.es/jspui/bitstream/10366/133632/1/Classification_of_Two_Comic_Books_based_.pdf)
+
+
