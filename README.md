@@ -63,9 +63,13 @@ The next model uses .L2 regularization, ensembles and batch bormalization. The t
 | Artist  | 1  |2 |3|4 |
 |---|---|---|---|---|
 |Jack Kirby| ![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr1.png) |![kirby2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr2.png) |![kirby3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr3.png) |![kirby1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kr4.png) |
-| Randall Munroe  | ![munroe1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/x1.png)  |![munroe2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/x2.png)  |![munroe3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/x3.png)  |![munroe4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/x4.png)  |
+| Randall Munroe  | ![munroe1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xr1.png)  |![munroe2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xr2.png)  |![munroe3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xr3.png)  |![munroe4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/xr4.png)  |
+|Jim Lee|![lee1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/lr1.png)|![lee2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/lr2.png)|||
 
 ## Next Steps
+
+Additional fine tuning techniques: Batch Normalization, L2 Regularization, Ensembles, Early Stopping
+Additional CV2 Filters: Canny Edge Detection
 
 ## References
 
