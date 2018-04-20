@@ -35,13 +35,13 @@ Here are the layers and their cumulative effects on the image.
 
 | Layers  |  Image| 
 |---|---|
-| Original  |![0](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby989.jpg))  |
-|Convolution: Conv2D : filter:20 kernel: 5x5 |![1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f1.png))|
-|Activation: ReLU |![2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f2.png))|
-|Pooling: MaxPooling2D: Pool:2x2 Strides: 2x2 |![3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f3.png))|
-|Convolution: Conv2D : filter:50 kernel: 5x5  |![4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f4.png))|
-|Activation: ReLU |![5](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f5.png))|
-|Pooling: MaxPooling2D: Pool:2x2 Strides: 2x2 |![6](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f6.png))|
+| Original  |![0](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/kirby989.jpg)  |
+|Convolution: Conv2D : filter:20 kernel: 5x5 |![1](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f1.png)|
+|Activation: ReLU |![2](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f2.png)|
+|Pooling: MaxPooling2D: Pool:2x2 Strides: 2x2 |![3](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f3.png)|
+|Convolution: Conv2D : filter:50 kernel: 5x5  |![4](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f4.png)|
+|Activation: ReLU |![5](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f5.png)|
+|Pooling: MaxPooling2D: Pool:2x2 Strides: 2x2 |![6](https://github.com/rhaussmann/ds-capstone-2/blob/master/img/f6.png)|
 |Flatten + Dense(500) + Activation:ReLU||
 |Dense(2)+Activation: Softmax||
 
